@@ -1,0 +1,7 @@
+sys
+pandas
+datetime
+numpy
+time
+requests
+pandas_datareader
